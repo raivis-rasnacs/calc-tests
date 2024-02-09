@@ -15,3 +15,5 @@ def dalijums(a, b):
     
 def pakape(a, b):
     return a ** b
+
+# comment
