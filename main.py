@@ -1,5 +1,5 @@
 def summa(a, b):
-    return a + b
+    return a + b + 2
 
 def starpiba(a, b):
     return a - b
